@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title> Aula02 HTML - Paragrafos </title>
+    </head>
+
+    <body>
+
+        <h1>Paragrafos</h1>
+
+        <p>
+            como utilizar <bold>paragrafos</bold> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <strong>paragrafos</strong> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <strike>paragrafos</strike> em HTML 5 com a utilização do navegador Chrome
+            como utilizar <em>paragrafos</em> em HTML 5 com a utilização do navegador Chrome
+
+        </p>
+
+        <p>
+
+    
+            como utilizar <bold>paragrafos</bold> em HTML 5 com a utilização do navegador Chrome
+         como utilizar <strong>paragrafos</strong> em HTML 5 com a utilização do navegador Chrome
+            como utilizar em HTML 5 com a utilização do navegador Chrome
+            como utilizar <1>paragrafos</1> em HTML 5 com a utilização do navegador Chrome
+
+        </p>
+
+
+    </body>
+
+
+</html>
